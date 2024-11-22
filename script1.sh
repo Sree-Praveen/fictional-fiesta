@@ -2,6 +2,6 @@
 
 echo "Hello world"
 
-echo "There ia a change"
+echo "There are changes locally and is different from github changes"
 
-echo "conflicting changes"
+
